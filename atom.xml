@@ -6,7 +6,7 @@
   <link href="http://www.52elong.win/atom.xml" rel="self"/>
   
   <link href="http://www.52elong.win/"/>
-  <updated>2021-01-25T03:20:15.084Z</updated>
+  <updated>2021-01-28T05:15:59.289Z</updated>
   <id>http://www.52elong.win/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://www.52elong.win/2019/09/07/formart/"/>
     <id>http://www.52elong.win/2019/09/07/formart/</id>
     <published>2019-09-07T01:25:00.000Z</published>
-    <updated>2021-01-25T03:20:15.084Z</updated>
+    <updated>2021-01-28T05:15:59.289Z</updated>
     
     
       
@@ -94,6 +94,35 @@
     <category term="video" scheme="http://www.52elong.win/tags/video/"/>
     
     <category term="翼龙" scheme="http://www.52elong.win/tags/%E7%BF%BC%E9%BE%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>npm_编译出错处理</title>
+    <link href="http://www.52elong.win/2016/09/07/npm-bian-yi-chu-cuo-chu-li/"/>
+    <id>http://www.52elong.win/2016/09/07/npm-bian-yi-chu-cuo-chu-li/</id>
+    <published>2016-09-07T01:25:00.000Z</published>
+    <updated>2021-01-28T05:19:19.967Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://img.alicdn.com/bao/uploaded/i2/780616195/O1CN013lM3ke1vdMFctI2zV_!!780616195.png_240x240.jpg&quot;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="教程" scheme="http://www.52elong.win/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="翼龙" scheme="http://www.52elong.win/tags/%E7%BF%BC%E9%BE%99/"/>
+    
+    <category term="npm" scheme="http://www.52elong.win/tags/npm/"/>
     
   </entry>
   
