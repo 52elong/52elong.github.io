@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.52elong.win/musics/index.html</loc>
+    
+    <lastmod>2021-02-01</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.52elong.win/2016/09/07/npm-bian-yi-chu-cuo-chu-li/</loc>
     
     <lastmod>2021-01-28</lastmod>
@@ -81,50 +88,50 @@
 
   <url>
     <loc>http://www.52elong.win/</loc>
-    <lastmod>2021-01-31</lastmod>
+    <lastmod>2021-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://www.52elong.win/tags/npm/</loc>
-    <lastmod>2021-01-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.52elong.win/tags/%E7%BF%BC%E9%BE%99/</loc>
-    <lastmod>2021-01-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.52elong.win/tags/video/</loc>
-    <lastmod>2021-01-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://www.52elong.win/tags/Typora/</loc>
-    <lastmod>2021-01-31</lastmod>
+    <lastmod>2021-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://www.52elong.win/tags/Markdown/</loc>
-    <lastmod>2021-01-31</lastmod>
+    <lastmod>2021-02-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.52elong.win/tags/%E7%BF%BC%E9%BE%99/</loc>
+    <lastmod>2021-02-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.52elong.win/tags/video/</loc>
+    <lastmod>2021-02-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.52elong.win/tags/npm/</loc>
+    <lastmod>2021-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://www.52elong.win/tags/%E4%BA%BF%E6%96%B9/</loc>
-    <lastmod>2021-01-31</lastmod>
+    <lastmod>2021-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -133,21 +140,21 @@
   
   <url>
     <loc>http://www.52elong.win/categories/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2021-01-31</lastmod>
+    <lastmod>2021-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://www.52elong.win/categories/video/</loc>
-    <lastmod>2021-01-31</lastmod>
+    <lastmod>2021-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://www.52elong.win/categories/%E5%8C%85%E8%A3%85/</loc>
-    <lastmod>2021-01-31</lastmod>
+    <lastmod>2021-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
