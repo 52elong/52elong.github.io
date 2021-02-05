@@ -37,11 +37,11 @@
     <category term="教程" scheme="http://www.52elong.win/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="翼龙" scheme="http://www.52elong.win/tags/%E7%BF%BC%E9%BE%99/"/>
-    
     <category term="Typora" scheme="http://www.52elong.win/tags/Typora/"/>
     
     <category term="Markdown" scheme="http://www.52elong.win/tags/Markdown/"/>
+    
+    <category term="翼龙" scheme="http://www.52elong.win/tags/%E7%BF%BC%E9%BE%99/"/>
     
   </entry>
   
@@ -50,7 +50,7 @@
     <link href="http://www.52elong.win/2019/09/07/yi-fang-bao-zhuang/"/>
     <id>http://www.52elong.win/2019/09/07/yi-fang-bao-zhuang/</id>
     <published>2019-09-07T01:25:00.000Z</published>
-    <updated>2021-01-26T04:35:21.692Z</updated>
+    <updated>2021-02-05T08:12:19.878Z</updated>
     
     
       
@@ -67,33 +67,6 @@
     
     
     <category term="亿方" scheme="http://www.52elong.win/tags/%E4%BA%BF%E6%96%B9/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Video</title>
-    <link href="http://www.52elong.win/2016/09/07/video/"/>
-    <id>http://www.52elong.win/2016/09/07/video/</id>
-    <published>2016-09-07T01:25:00.000Z</published>
-    <updated>2021-01-28T04:55:32.273Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="video" scheme="http://www.52elong.win/categories/video/"/>
-    
-    
-    <category term="video" scheme="http://www.52elong.win/tags/video/"/>
-    
-    <category term="翼龙" scheme="http://www.52elong.win/tags/%E7%BF%BC%E9%BE%99/"/>
     
   </entry>
   
@@ -121,6 +94,33 @@
     <category term="翼龙" scheme="http://www.52elong.win/tags/%E7%BF%BC%E9%BE%99/"/>
     
     <category term="npm" scheme="http://www.52elong.win/tags/npm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Video</title>
+    <link href="http://www.52elong.win/2016/09/07/video/"/>
+    <id>http://www.52elong.win/2016/09/07/video/</id>
+    <published>2016-09-07T01:25:00.000Z</published>
+    <updated>2021-01-28T04:55:32.273Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="video" scheme="http://www.52elong.win/categories/video/"/>
+    
+    
+    <category term="翼龙" scheme="http://www.52elong.win/tags/%E7%BF%BC%E9%BE%99/"/>
+    
+    <category term="video" scheme="http://www.52elong.win/tags/video/"/>
     
   </entry>
   
