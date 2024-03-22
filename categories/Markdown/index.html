@@ -38,7 +38,7 @@
     
     
     
-    <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
+    <!-- <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script> 今日诗词-->
 
 
 
@@ -396,7 +396,7 @@
         
         <li><div class="divider"></div></li>
         <li>
-            <a href="https://github.com/52elong" class="waves-effect waves-light" target="_blank">
+            <a href="https://github.com/" class="waves-effect waves-light" target="_blank">
                 <i class="fab fa-github-square fa-fw"></i>Fork Me
             </a>
         </li>
@@ -453,7 +453,7 @@
     }
 </style>
 
-<a href="https://github.com/52elong" class="github-corner tooltipped hide-on-med-and-down" target="_blank"
+<a href="https://github.com/" class="github-corner tooltipped hide-on-med-and-down" target="_blank"
    data-tooltip="Fork Me" data-position="left" data-delay="50">
     <svg viewBox="0 0 250 250" aria-hidden="true">
         <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
@@ -481,8 +481,18 @@
 
             <div class="description center-align">
                 
-                  
-                    <span id="jinrishici-sentence">正在加载今日诗词....</span>
+                <span id="subtitle"></span>
+                <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
+                <script>
+                    var typed = new Typed("#subtitle", {
+                        strings: ['Ok','Never really desperate, only the lost of the soul'],
+                        startDelay: 300,
+                        typeSpeed: 100,
+                        loop: true,
+                        backSpeed: 50,
+                        showCursor: true
+                    });
+                </script>
                 
             </div>
         </div>
