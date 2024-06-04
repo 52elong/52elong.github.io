@@ -630,6 +630,9 @@
 <p>OpenUPM-CLI<br>OpenUPM<br>Import from GitHub<br>If you have the OpenUPM CLI installed, you can install the OpenUPM registry with the following command:</p>
 <p>openupm add com.google.ads.mobile<br>Remove .unitypackage plugin assets<br>If you are migrating from using a .unitypackage to using OpenUPM, you must manually uninstall the assets from the old location. Remove the following directories that were imported from the .unitypackage:</p>
 <p>Assets/ExternalDependencyManager<br>Assets/GoogleMobileAds<br>Assets/Plugins/Android/googlemobileads-unity.aar<br>Assets/Plugins/Android/GoogleMobileAdsPlugin<br>Assets/Plugins/iOS/GADUAdNetworkExtras<br>Assets/Plugins/iOS/unity-plugin-library.a</p>
+<hr>
+<h1 id="Include-external-dependencies"><a href="#Include-external-dependencies" class="headerlink" title="Include external dependencies"></a>Include external dependencies</h1><hr>
+<p>The Google Mobile Ads Unity plugin is distributed with the Unity Play Services Resolver library. This library is intended for use by any Unity plugin that requires access to Android-specific libraries, such as AARs, or iOS CocoaPods. It provides Unity plugins the ability to declare dependencies, which are then automatically resolved and copied into your Unity project.</p>
 
                 
             </div>
