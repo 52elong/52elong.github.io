@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Indian scientists develop system to generate hydrogen from agricultural residue</title>
+      <link href="/2025/02/15/residue/"/>
+      <url>/2025/02/15/residue/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><hr><p>Sentient Labs, an Indian-based R&amp;D innovation lab and MACS – Agharkar Research Institute (ARI), have developed what they claim to be a “world first” in generating hydrogen directly from agricultural residue for use in fuel-cell powered vehicles.</p><p>Sentient Labs said that this hydrogen generation technology uses agricultural residue rich in cellulose and hemicellulose content – in the likes of paddy, wheat, or maize residue.</p><hr><p><img src="https://cdn.agriland.ie/uploads/2021/02/pexels-sindre-str%C3%B8m-1073031-1280x720.jpg"></p><hr><p>It further generates methane, which is utilized for producing additional hydrogen by steam methane reformation.</p><p>According to Sentient, this process can avoid the burning of bio-mass generated in large measure in the Indian countryside and generate organic manure and CO2, which finds applications in various industries.</p><p>Ravi Pandit, chairman of Sentient Labs said: “We incubated Sentient Labs to work on technology R&amp;D projects related to mobility and energy.</p><p>“This innovation affirms our commitment to Mission Hydrogen and Make in India charter by the government.</p><p>“This breakthrough of generating hydrogen from unutilized agricultural residue will help us become self-reliant on energy resources.</p><p>“It will also add a major stream of revenue to the farmer community. We will continue R&amp;D and invite partners to come on board for production and commercialising the same.”</p><p>Dr. Prashant Dhakephalkar, director, Agharkar Research Institute said, “Our technology is 25% more efficient as compared to conventional anaerobic digestion processes used today.</p><p>“The innovative two stage process eliminates the pre-treatment of the biomass, thus making the process economical and environment friendly.</p><p>“This biologically benign process generates digestate rich in nutrients which can be used as organic fertilizer.</p><p>“Its by-products can be used as soil conditioners while undigested solids for briquetting that can be sold as solid fuel. “</p><p>Pawan Sharma, president and CEO of Sentient Labs said:</p><p>“The milestone in collaboration with Sentient Labs has the potential to radically transform the agricultural industry and garner new sources of value-creation.”</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> IT </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> it </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello 2025</title>
       <link href="/2025/02/15/hello-world/"/>
       <url>/2025/02/15/hello-world/</url>
@@ -29,24 +54,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/2025/02/14/13-yao-zhang-jie/"/>
-      <url>/2025/02/14/13-yao-zhang-jie/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>music2024</title>
       <link href="/2024/03/23/music/"/>
       <url>/2024/03/23/music/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><hr><p>Music2024</p><h2 id="1-Insert-directly-into-an-article"><a href="#1-Insert-directly-into-an-article" class="headerlink" title="1.Insert directly into an article"></a>1.Insert directly into an article</h2><p>1.First, search for the music you want in NetEase Cloud Music, and then click to generate an external link player.<br>2.Then paste this code into the .md \text{.md}.md file of your article and it will be displayed.<br>3.JavaScript tag<br>    <script type="text/javascript" src="http://www.xiami.com/widget/player-single?uid=32329501&amp;sid=1776238762&amp;mode=js"></script></p><hr><h2 id="2-Use-Hexo-tag-Aplayer-text-Hexo-tag-Aplayer-Hexo-tag-Aplayer-plugin"><a href="#2-Use-Hexo-tag-Aplayer-text-Hexo-tag-Aplayer-Hexo-tag-Aplayer-plugin" class="headerlink" title="2.Use Hexo-tag-Aplayer \text{Hexo-tag-Aplayer}Hexo-tag-Aplayer plugin"></a>2.Use Hexo-tag-Aplayer \text{Hexo-tag-Aplayer}Hexo-tag-Aplayer plugin</h2><ol><li>npm install –save hexo-tag-aplayer</li><li>Add it to the markdown document of the article</li><li><script>console.error("Error: [hexo-tag-aplayer] Unrecognized tag argument(2): autoplay=false");</script></li></ol><hr><h2 id="3-You-can-create-a-separate-playlist-page"><a href="#3-You-can-create-a-separate-playlist-page" class="headerlink" title="3.You can create a separate playlist page"></a>3.You can create a separate playlist page</h2><ol><li>latest version hexo-tag-aplayer \text{hexo-tag-aplayer}hexo-tag-aplayer Already supported MetingJS \text{MetingJS}MetingJS的use，To directly parse the songs on the network platform, you must first enable the meting \text{meting}meting mode in the site configuration file, and add the following code at the end of the configuration file:</li><li>aplayer:<pre><code>meting: true</code></pre></li><li>Copy the link to the playlist, then copy the id of the playlist \text{id}id，例如 <a href="https://music.163.com/playlist?id=523845661&amp;userid=46562117">https://music.163.com/playlist?id=523845661&amp;userid=46562117</a> ，The ID of this playlist is 523845661. The company name can be tencent, netease or other companies. Here is an example，打开 /Hexo/source/playlist/index.md文件，enter：</li><li>    <div id="aplayer-AIpikfzL" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="7634442256" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div></li></ol><hr><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><p><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7237853059527557" data-ad-slot="7610179241"></ins></p><script>     (adsbygoogle = window.adsbygoogle || []).push({});</script><hr><h2 id="Dplayer"><a href="#Dplayer" class="headerlink" title="Dplayer"></a>Dplayer</h2><p>Example: video</p><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"hotkey":true,"preload":"metadata","video":{"url":"https://stream7.iqilu.com/10339/upload_transcode/202002/18/20200218093206z8V1JuPlpe.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> <hr><h2 id="Aplayer-music"><a href="#Aplayer-music" class="headerlink" title="Aplayer music"></a>Aplayer music</h2>    <div id="aplayer-ZUbBwcrw" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="7634442256" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><hr><p>Music2024</p><h2 id="1-Insert-directly-into-an-article"><a href="#1-Insert-directly-into-an-article" class="headerlink" title="1.Insert directly into an article"></a>1.Insert directly into an article</h2><p>1.First, search for the music you want in NetEase Cloud Music, and then click to generate an external link player.<br>2.Then paste this code into the .md \text{.md}.md file of your article and it will be displayed.<br>3.JavaScript tag<br>    <script type="text/javascript" src="http://www.xiami.com/widget/player-single?uid=32329501&amp;sid=1776238762&amp;mode=js"></script></p><hr><h2 id="2-Use-Hexo-tag-Aplayer-text-Hexo-tag-Aplayer-Hexo-tag-Aplayer-plugin"><a href="#2-Use-Hexo-tag-Aplayer-text-Hexo-tag-Aplayer-Hexo-tag-Aplayer-plugin" class="headerlink" title="2.Use Hexo-tag-Aplayer \text{Hexo-tag-Aplayer}Hexo-tag-Aplayer plugin"></a>2.Use Hexo-tag-Aplayer \text{Hexo-tag-Aplayer}Hexo-tag-Aplayer plugin</h2><ol><li>npm install –save hexo-tag-aplayer</li><li>Add it to the markdown document of the article</li><li><script>console.error("Error: [hexo-tag-aplayer] Unrecognized tag argument(2): autoplay=false");</script></li></ol><hr><h2 id="3-You-can-create-a-separate-playlist-page"><a href="#3-You-can-create-a-separate-playlist-page" class="headerlink" title="3.You can create a separate playlist page"></a>3.You can create a separate playlist page</h2><ol><li>latest version hexo-tag-aplayer \text{hexo-tag-aplayer}hexo-tag-aplayer Already supported MetingJS \text{MetingJS}MetingJS的use，To directly parse the songs on the network platform, you must first enable the meting \text{meting}meting mode in the site configuration file, and add the following code at the end of the configuration file:</li><li>aplayer:<pre><code>meting: true</code></pre></li><li>Copy the link to the playlist, then copy the id of the playlist \text{id}id，例如 <a href="https://music.163.com/playlist?id=523845661&amp;userid=46562117">https://music.163.com/playlist?id=523845661&amp;userid=46562117</a> ，The ID of this playlist is 523845661. The company name can be tencent, netease or other companies. Here is an example，打开 /Hexo/source/playlist/index.md文件，enter：</li><li>    <div id="aplayer-dFNzGhJk" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="7634442256" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div></li></ol><hr><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><p><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7237853059527557" data-ad-slot="7610179241"></ins></p><script>     (adsbygoogle = window.adsbygoogle || []).push({});</script><hr><h2 id="Dplayer"><a href="#Dplayer" class="headerlink" title="Dplayer"></a>Dplayer</h2><p>Example: video</p><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"hotkey":true,"preload":"metadata","video":{"url":"https://stream7.iqilu.com/10339/upload_transcode/202002/18/20200218093206z8V1JuPlpe.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> <hr><h2 id="Aplayer-music"><a href="#Aplayer-music" class="headerlink" title="Aplayer music"></a>Aplayer music</h2>    <div id="aplayer-JUXPHhjA" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="7634442256" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div>]]></content>
       
       
       <categories>
@@ -125,31 +137,6 @@
         <tags>
             
             <tag> course </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Indian scientists develop system to generate hydrogen from agricultural residue</title>
-      <link href="/2021/08/19/residue/"/>
-      <url>/2021/08/19/residue/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><hr><p>Sentient Labs, an Indian-based R&amp;D innovation lab and MACS – Agharkar Research Institute (ARI), have developed what they claim to be a “world first” in generating hydrogen directly from agricultural residue for use in fuel-cell powered vehicles.</p><p>Sentient Labs said that this hydrogen generation technology uses agricultural residue rich in cellulose and hemicellulose content – in the likes of paddy, wheat, or maize residue.</p><hr><p><img src="https://cdn.agriland.ie/uploads/2021/02/pexels-sindre-str%C3%B8m-1073031-1280x720.jpg"></p><hr><p>It further generates methane, which is utilized for producing additional hydrogen by steam methane reformation.</p><p>According to Sentient, this process can avoid the burning of bio-mass generated in large measure in the Indian countryside and generate organic manure and CO2, which finds applications in various industries.</p><p>Ravi Pandit, chairman of Sentient Labs said: “We incubated Sentient Labs to work on technology R&amp;D projects related to mobility and energy.</p><p>“This innovation affirms our commitment to Mission Hydrogen and Make in India charter by the government.</p><p>“This breakthrough of generating hydrogen from unutilized agricultural residue will help us become self-reliant on energy resources.</p><p>“It will also add a major stream of revenue to the farmer community. We will continue R&amp;D and invite partners to come on board for production and commercialising the same.”</p><p>Dr. Prashant Dhakephalkar, director, Agharkar Research Institute said, “Our technology is 25% more efficient as compared to conventional anaerobic digestion processes used today.</p><p>“The innovative two stage process eliminates the pre-treatment of the biomass, thus making the process economical and environment friendly.</p><p>“This biologically benign process generates digestate rich in nutrients which can be used as organic fertilizer.</p><p>“Its by-products can be used as soil conditioners while undigested solids for briquetting that can be sold as solid fuel. “</p><p>Pawan Sharma, president and CEO of Sentient Labs said:</p><p>“The milestone in collaboration with Sentient Labs has the potential to radically transform the agricultural industry and garner new sources of value-creation.”</p><hr>]]></content>
-      
-      
-      <categories>
-          
-          <category> IT </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> it </tag>
             
         </tags>
       
