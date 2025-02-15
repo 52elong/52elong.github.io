@@ -116,7 +116,14 @@
 
   
   <url>
-    <loc>https://www.52elong.win/tags/Typora/</loc>
+    <loc>https://www.52elong.win/tags/course/</loc>
+    <lastmod>2025-02-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.52elong.win/tags/music/</loc>
     <lastmod>2025-02-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -130,14 +137,7 @@
   </url>
   
   <url>
-    <loc>https://www.52elong.win/tags/course/</loc>
-    <lastmod>2025-02-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.52elong.win/tags/music/</loc>
+    <loc>https://www.52elong.win/tags/Typora/</loc>
     <lastmod>2025-02-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -153,14 +153,14 @@
 
   
   <url>
-    <loc>https://www.52elong.win/categories/Markdown/</loc>
+    <loc>https://www.52elong.win/categories/course/</loc>
     <lastmod>2025-02-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.52elong.win/categories/course/</loc>
+    <loc>https://www.52elong.win/categories/Markdown/</loc>
     <lastmod>2025-02-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
